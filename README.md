@@ -1,6 +1,5 @@
 
 ### Hi! I'm Fabrício Queiroz 👋
-![escuridao](https://user-images.githubusercontent.com/75483108/133337666-8f9459d9-dcc7-4863-abce-8170256cf865.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabricioqz&show_icons=true&theme=midnight-purple)
 
